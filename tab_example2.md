@@ -1,5 +1,6 @@
 ---
 title: Example2
+displaytext: Speakers
 layout:  null
 tab: true
 order: 2
