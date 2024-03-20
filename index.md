@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP SRM Easwari Engineering College
+title: OWASP SRM Easwari Engineering College - Student Chapter
 tags: example-tag
 region: Asia
 country: India
