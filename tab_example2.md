@@ -6,6 +6,6 @@ order: 1
 tags: example-tag
 ---
 
-## Example
+## Example2
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
