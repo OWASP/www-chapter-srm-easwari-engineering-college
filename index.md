@@ -28,7 +28,7 @@ This is an example of a Project or Chapter.  Please change these items to indica
 </div>
 
 ## Welcome
-![Logo](https://raw.githubusercontent.com/OWASP/www-chapter-srm-easwari-engineering-college/main/assets/images/OWASP.png)
+![Logo](https://raw.githubusercontent.com/OWASP/www-chapter-srm-easwari-engineering-college/main/assets/images/easwari-student-chapter.png)
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
