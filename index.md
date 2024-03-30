@@ -8,7 +8,7 @@ country: India
 meetup-group:
 
 ---
-
+<!--
 <div style='color:red;'>
 
 This is an example of a Project or Chapter.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
@@ -26,7 +26,7 @@ This is an example of a Project or Chapter.  Please change these items to indica
 </ul>
 
 </div>
-
+-->
 ## Welcome
 ![Logo](https://raw.githubusercontent.com/OWASP/www-chapter-srm-easwari-engineering-college/main/assets/images/easwari-student-chapter.png)
 
