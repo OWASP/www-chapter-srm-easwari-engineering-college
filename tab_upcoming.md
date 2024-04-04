@@ -4,7 +4,7 @@ displaytext: Upcoming Events
 layout: default
 tab: true
 order: 1
-tags: upcomingEvents-tag
+tags: owasp-EEC
 ---
 
 ## Upcoming Events
