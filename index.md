@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP SRM Easwari Engineering College - Student Chapter
-tags: example-tag
+tags: owasp-EEC
 region: Asia
 country: India
 meetup-group:
