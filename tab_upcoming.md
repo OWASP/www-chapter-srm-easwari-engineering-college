@@ -1,7 +1,7 @@
 ---
 title: upcoming
 displaytext: Upcoming Events
-layout: null
+layout: default
 tab: true
 order: 1
 tags: upcomingEvents-tag
