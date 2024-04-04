@@ -1,9 +1,9 @@
 ---
 title: upcoming
 displaytext: Upcoming Events
-layout: col-sidebar
+layout: null
 tab: true
-order: 0
+order: 1
 tags: upcomingEvents-tag
 ---
 
