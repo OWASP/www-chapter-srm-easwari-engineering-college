@@ -1,11 +1,13 @@
 ---
-title: Example
-layout:  null
+title: Upcoming Events
+layout: null
 tab: true
 order: 1
-tags: example-tag
+tags: upcomingEvents-tag
 ---
 
-## Example
+## Upcoming Events
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+🎉 Exciting Upcoming Events! 🎉
+
+Get ready to mark your calendars because we have a lineup of fantastic events coming your way! From engaging workshops to captivating performances, there's something for everyone to enjoy.
