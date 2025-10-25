@@ -1,0 +1,26 @@
+leaders:
+  - name: Balaji Vaithilingam
+    email: balaji.vaithilingam@owasp.org
+  - name: Praveen H P
+    email: praveen.hp@owasp.org
+    github: Praveen-H-P
+  - name: Sidharth S
+    email: sidharth.s@owasp.org
+    github: sidd-oo
+location:
+  country: India
+  country_code: IN
+  region: Tamil Nadu
+  city: Kattankulathur
+  latitude: 13.03377575
+  longitude: 80.1800958152424
+name: OWASP SRM Easwari Engineering College
+repositories:
+  - name: www-chapter-srm-easwari-engineering-college
+    url: https://github.com/OWASP/www-chapter-srm-easwari-engineering-college
+    description: OWASP Foundation Web Repository
+tags:
+  - owasp-EEC
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-srm-easwari-engineering-college
